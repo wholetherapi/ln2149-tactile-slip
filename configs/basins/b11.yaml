@@ -1,0 +1,5 @@
+seed: 1011
+basin: central
+sequence_length: 100
+learning_rate: 0.8e-4
+hidden_dim: 176

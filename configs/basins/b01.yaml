@@ -1,0 +1,5 @@
+seed: 1001
+basin: upper-basin
+sequence_length: 100
+learning_rate: 0.4e-4
+hidden_dim: 144

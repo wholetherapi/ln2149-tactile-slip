@@ -1,0 +1,5 @@
+seed: 1006
+basin: foothill
+sequence_length: 100
+learning_rate: 0.3e-4
+hidden_dim: 160

@@ -1,0 +1,5 @@
+seed: 1014
+basin: estuary
+sequence_length: 112
+learning_rate: 0.5e-4
+hidden_dim: 160

@@ -1,0 +1,5 @@
+seed: 1008
+basin: south-ridge
+sequence_length: 108
+learning_rate: 0.5e-4
+hidden_dim: 128
